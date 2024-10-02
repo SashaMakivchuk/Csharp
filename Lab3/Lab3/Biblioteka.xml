@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<biblioteka>
+	<book>
+		<id>1</id>
+		<author>Author 1</author>
+		<title>Title 1</title>
+		<year>1840</year>
+		<pages>200</pages>
+		<price>150</price>
+	</book>
+	<book>
+		<id>2</id>
+		<author>Author 2</author>
+		<title>Title 2</title>
+		<year>1840</year>
+		<pages>147</pages>
+		<price>150</price>
+		<price>120</price>
+	</book>
+	<book>
+		<id>3</id>
+		<author>Author 2</author>
+		<title>Title 2</title>
+		<year>1890</year>
+		<pages>900</pages>
+		<price>500</price>
+	</book>
+	<book>
+		<id>4</id>
+		<author>Author 3</author>
+		<title>Title 3</title>
+		<year>1840</year>
+		<pages>230</pages>
+		<price>130</price>
+	</book>
+	<book>
+		<id>5</id>
+		<author>Author 4</author>
+		<title>Title 4</title>
+		<year>1810</year>
+		<pages>2400</pages>
+		<price>1501</price>
+	</book>
+	<book>
+		<id>6</id>
+		<author>Author 2</author>
+		<title>Title 5</title>
+		<year>2014</year>
+		<pages>290</pages>
+		<price>112</price>
+	</book>
+	<book>
+		<id>7</id>
+		<author>Author 9</author>
+		<title>Title 7</title>
+		<year>1840</year>
+		<pages>200</pages>
+		<price>150</price>
+	</book>
+</biblioteka>

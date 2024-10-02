@@ -1,0 +1,36 @@
+<?xml version="1.0" standaloe="yes"?>
+<Book ID="1">
+    <Author>Author1</Author>
+    <BookName>Book1</BookName>
+    <Year>1999</Year>
+    <Pages>700</Pages>
+    <Price>500</Price>
+</Book>
+<Book ID="1">
+    <Author>Author1</Author>
+    <BookName>Book1</BookName>
+    <Year>1999</Year>
+    <Pages>700</Pages>
+    <Price>500</Price>
+</Book>
+<Book ID="1">
+    <Author>Author1</Author>
+    <BookName>Book1</BookName>
+    <Year>1999</Year>
+    <Pages>700</Pages>
+    <Price>500</Price>
+</Book>
+<Book ID="1">
+    <Author>Author1</Author>
+    <BookName>Book1</BookName>
+    <Year>1999</Year>
+    <Pages>700</Pages>
+    <Price>500</Price>
+</Book>
+<Book ID="1">
+    <Author>Author1</Author>
+    <BookName>Book1</BookName>
+    <Year>1999</Year>
+    <Pages>700</Pages>
+    <Price>500</Price>
+</Book>
