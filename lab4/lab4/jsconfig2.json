@@ -1,0 +1,50 @@
+[
+    {
+        "code": 1,
+        "author": "Author1",
+        "title": "Title1",
+        "year": "1999",
+        "pages": 123,
+        "price": 100
+    },
+    {
+        "code": 2,
+        "author": "Author2",
+        "title": "Title2",
+        "year": 1877,
+        "pages": 124,
+        "price": 345
+    },
+    {
+        "code": 3,
+        "author": "Author3",
+        "title": "Title3",
+        "year": 1123,
+        "pages": 194,
+        "price": 1300
+    },
+    {
+        "code": 4,
+        "author": "Author4",
+        "title": "Title24",
+        "year": 1877,
+        "pages": 124,
+        "price": 390
+    },
+    {
+        "code": 5,
+        "author": "Author5",
+        "title": "Title5",
+        "year": 1123,
+        "pages": 180,
+        "price": 697
+    },
+    {
+        "code": 6,
+        "author": "Author6",
+        "title": "Title6",
+        "year": 1900,
+        "pages": 300,
+        "price":123
+    }
+]
