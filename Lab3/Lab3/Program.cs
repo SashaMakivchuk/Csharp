@@ -48,7 +48,7 @@ namespace Lab3
 
             if (books.Any())
             {
-                decimal totalPrice = books.Sum(b => decimal.Parse(b.Element("price").Value));
+                double totalPrice = books.Sum(b => double.Parse(b.Element("price").Value));
 
                 Console.WriteLine($"\nSum of books created in {inputYear} year with 100 to 200 pages: {totalPrice} UAH");
             }
